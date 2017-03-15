@@ -19,7 +19,7 @@ source djangoVirtualENV/bin/activate
 
 - 安裝以下套件
 <pre>
-	pip install django psycopg2 requests pillow
+pip install django psycopg2 requests pillow
 </pre>
 
 
